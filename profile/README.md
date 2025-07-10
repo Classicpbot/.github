@@ -1,12 +1,18 @@
-## Hi there 👋
+Classic PBOT Projeto Senhas
 
-<!--
+Site principal: https://classicpbot.com/
+AAPanel: https://212.18.114.164:20256/dd15a69a
+IP da VPS: 212.18.114.164
+site vps: https://ostophost.com
 
-**Here are some ideas to get you started:**
+Download do cliente já ta no site e funcionando: https://classicpbot.com/index.php/downloads
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+conta super admin do site, jogo, vps
+conta: pbotclassic@gmail.com
+senha: Will100203@
+
+conectar pelo bitwase:
+usuario: root
+senha: L6&amp;1EtIpH1vk
+
+só entrar nela e aparece o painel acima para editar qualquer coisa pelo navegador
