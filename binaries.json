@@ -1,0 +1,9 @@
+{
+  "version": "debug",
+  "clients": {
+    "gl_x64": {
+      "file": "_gl_x64.exe",
+      "sha256": "66d10f154d20e615c77d13ff1184042810c8dd74946c61fd2713dfbe35f3157e"
+    }
+  }
+}
